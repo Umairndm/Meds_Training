@@ -34,7 +34,7 @@ This repository contains all exercises, tutorials, and progress for the training
 ## 🖼️ Center Aligned Figures
 
 <p align="center">
-  <img src="5.png" alt="Placeholder Image" width="500">
+  <img src="shell.png" alt="Placeholder Image" width="500">
 </p>
 
 ---
